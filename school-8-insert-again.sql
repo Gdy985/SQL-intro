@@ -6,4 +6,4 @@ INSERT INTO students(
     "Jerry",
     "Gao",
     "diyuangao2023@u.northwestern.edu"
-)
+);
